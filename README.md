@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @brnkmcgr.
 - ✍️ I’m a technical writer and editor based in Virginia USA.
-- 🌱 I’m looking for learning/career opportunities in technical communications, information architecture/development, and user assistance using DITA XML.
-- 🔃 Also generally interested in productivity, workflows, and process design.
 - 📫 Reach me at brnkmcgr@gmail.com.
 
 <!---
